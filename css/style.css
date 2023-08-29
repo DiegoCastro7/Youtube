@@ -222,6 +222,9 @@ nav{
 .play-video{
     flex-basis: 69%;
 }
+.play-video video{
+    border-radius: 5px;
+}
 .right-sidebar{
     flex-basis: 30%;
 }
@@ -235,6 +238,7 @@ nav{
 }
 .side-video-list img{
     width: 100%;
+    border-radius: 10px;
 }
 .side-video-list .small-thumbnail{
     flex-basis: 49%;

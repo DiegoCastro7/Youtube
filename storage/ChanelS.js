@@ -59,19 +59,31 @@ let Buscarvideosaleatorio = async()=>{
     let seleccion = document.querySelector("#videoapi");
     seleccion.insertAdjacentHTML("beforeend",/*html*/`
     ${nuevocontenido.map((value)=> /*html*/`
-        <div class="vid-list">
+        <div class="vid-list" data-video-id=${value.video.videoId}>
             <a href="play-video.html"><img src=${value.video.thumbnails[3].url} class="thumbnail"></a>
             <div class="flex-div">
                 <img src=${res2.avatar[2].url}>
                 <div class="vid-info">
                     <a href="play-video.html">${value.video.title}</a>
                     <p>${res2.title}</p>
-                    <p>${value.video.stats.views} Views &bull;  ${value.video.publishedTimeText}</p>
+                    <p>${value.video.stats.views} views &bull;  ${value.video.publishedTimeText}</p>
                 </div>
             </div>
         </div>
         `).join("")}
     `);
+    
+    const info = document.querySelectorAll(".vid-list")
+    console.log(info);
+
+    info.forEach(video =>{
+        video.addEventListener("click", () => {
+            let videoID = video.getAttribute("data-video-id")
+            console.log(videoID);
+            localStorage.setItem('id', videoID)
+            window.location.href = 'play-video.html'
+        })
+    })
 }
 let Buscarvideos = async()=>{
 
@@ -88,7 +100,7 @@ let Buscarvideos = async()=>{
             <div class="vid-info">
                 <a href="">${value.video.title}</a>
                 <p>${res2.title}</p>
-                <p>${value.video.stats.views} Views</p>
+                <p>${value.video.stats.views} views &bull;  ${value.video.publishedTimeText}</p>
             </div>
         </div>
         `).join("")}
