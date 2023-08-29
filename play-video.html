@@ -6,8 +6,10 @@
     <title>Youtube</title>
     <link rel="stylesheet" href="/css/style.css">
     <script src="storage/ChanelS.js" defer></script>
+    <script src="js/script2.js" defer></script>
 </head>
 <body>
+    <div class="overlay"></div>
     <nav class="flex-div">
         <div class="nav-left flex-div">
             <img src="images/menu.png" class="menu-icon">
@@ -22,11 +24,28 @@
         </div>
         <div class="nav-right flex-div">
             <img src="images/upload.png">
-            <img src="images/more.png">
             <img src="images/notification.png">
-            <img src="images/Jack.png" class="user-icon">
+            <img src="images/avatar.png" class="user-icon">
         </div>
     </nav>
+    <!-- ------------ sidebar ---- -->
+    <div class="sidebar" style="display: none;">
+        <div class="shortcut-links">
+            <a href="index.html"><img src="images/home.png"><p>Home</p></a>
+            <a href="https://www.youtube.com/shorts"><img src="images/shorts.png"><p>Shorts</p></a>
+            <a href="https://www.youtube.com/feed/subscriptions"><img src="images/subscriprion.png"><p>Subscription</p></a>
+            <hr>
+            <a href="https://www.youtube.com/feed/library"><img src="images/library.png"><p>Library</p></a>
+            <a href="https://www.youtube.com/feed/history"><img src="images/history.png"><p>History</p></a>
+            <a href="https://studio.youtube.com/"><img src="images/videos.png"><p>Your videos</p></a>
+            <a href="https://www.youtube.com/playlist?list=WL"><img src="images/later.png"><p>Watch later</p></a>
+            <a href="https://www.youtube.com/playlist?list=LL"><img src="images/liked.png"><p>Liked videos</p></a>
+            <a href="index.html"><img src="images/show-more.png"><p>Show More</p></a>
+            <hr>
+        </div>
+        <div class="subscribed-list" id="subls">
+        </div>
+    </div>
     <div class="container play-container">
         <div class="row">
             <div class="play-video">

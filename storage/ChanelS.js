@@ -18,6 +18,20 @@ let InfoCanal = async()=>{
         <a href="https://www.youtube.com/@InformaticaDP"><img src="images/infomaticadp.jpg"><p style="margin-bottom:0">InformaticaDP</p></a>
         <a href="index.html"><img src="images/show-more.png"><p style="margin-bottom:0">Show More</p></a>
     `);
+    let seleccion4 = document.querySelector("#infch");
+    seleccion4.insertAdjacentHTML("beforeend",/*html*/`
+    <div class="channel-info">
+        <img id="imgvatar" src=${res2.avatar[2].url}>
+        <div class="list-info-channel">
+            <h3>${res2.title}</h3>
+            <p><strong>${res2.username}</strong> ${res2.stats.subscribersText} ${res2.stats.videosText}</p>
+            <a href=""><p>More about this channel<img src="images/derecha.png"></p></a>
+        </div>        
+    </div>
+    <div class="button">
+            <button type="button"><img src="images/notification.png"><h3>Subscribed<h3><img src="images/show-bg.png"></button>
+        </div>
+    `);
 }
 
 let Buscarvideosaleatorio = async()=>{
