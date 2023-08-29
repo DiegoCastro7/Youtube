@@ -43,11 +43,18 @@ nav{
 .nav-middle .mic-icon{
     width: 40px;
 }
+.nav-middle .search-box div{
+    background: #f0f0f0;
+    height: 40px;
+    width: 50px;
+    border-radius: 0 25px 25px 0;
+    text-align: center;
+}
 .nav-middle .search-box{
     border: 1px solid #ccc;
     margin-right: 8px;
     margin-left: 4px;
-    padding: 8px 12px;
+    padding-left:15px;
     border-radius: 25px;
 }
 .nav-middle .search-box input{
@@ -58,6 +65,8 @@ nav{
 }
 .nav-middle .search-box img{
     width: 15px;
+    padding-top: 11px;
+    padding-bottom: 11px;
 }
 /*-- ------------ sidebar ---- --*/
 .sidebar{
