@@ -17,14 +17,15 @@ const path4 = "storage/VideoI";
         </div>
         <button type="button">Subscribe</button>
      `);
-     let res3 = await peticion.json();
+     let peticion2 = await fetch(`${path4}.json`);
+     let res3 = await peticion2.json();
      let seleccion3 = document.querySelector(".vid-description");
      seleccion3.insertAdjacentHTML("afterbegin",/*html*/`
-     <img src=${res.author.avatar[2].url}>
+     <img src=${res3.author.avatar[2].url}>
      <p>Channel that makes learn easy</p>
      <p>Subscribe Easy tutorials to watch more turotials on web development</p>
      <hr>
-     <h4>${res.stats.comments} Comments</h4>
+     <h4>${res3.stats.comments} Comments</h4>
      <div class="add-comment">
          <img src="images/avatar.png">
          <input type="text" placeholder="Write comments...">
