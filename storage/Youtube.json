@@ -1,0 +1,1756 @@
+{
+    "contents": [
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/0MzbMw7BHepsssOH7o-M7KLdskHRTNiNGIm8bX1CHv3ba06acbr2WHB_VjoVgFURUn5NPX020v8=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@LaGeekipediaDeErnesto",
+            "channelId": "UCeEW6PHNJlIwI-rKChmqqkw",
+            "title": "La Geekipedia De Ernesto"
+        },
+        "badges": [],
+        "descriptionSnippet": "Curso de programación profesional - Parte #1 Como aprender a programar desde cero. Este curso te proporcionara las bases de ...",
+        "isLiveNow": false,
+        "lengthSeconds": 426,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/AEiRa5xZaZw/mqdefault_6s.webp?du=3000&sqp=CITXtqcG&rs=AOn4CLBLWxZ-zA4sfmHMNNW-Pbt5XF8euw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "6 years ago",
+        "stats": {
+            "views": 5236751
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/AEiRa5xZaZw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL8x9OYcHG19ipDUIM3EvEL5B5bA",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/AEiRa5xZaZw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeLu4PWVo6oPiX_H3fTMIQsqHr0Q",
+            "width": 720
+            }
+        ],
+        "title": "Curso de programación desde cero | Principio básico de programación #1",
+        "videoId": "AEiRa5xZaZw"
+        }
+    },
+    {
+        "channel": {
+        "avatar": [
+            {
+            "height": 88,
+            "url": "https://yt3.googleusercontent.com/ytc/AOPolaQL0ClzbUJj12YowYxx1xka9Z0TKS9VojBLkL58Kg=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88
+            },
+            {
+            "height": 176,
+            "url": "https://yt3.googleusercontent.com/ytc/AOPolaQL0ClzbUJj12YowYxx1xka9Z0TKS9VojBLkL58Kg=s176-c-k-c0x00ffffff-no-rj-mo",
+            "width": 176
+            }
+        ],
+        "badges": [
+            {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+            }
+        ],
+        "canonicalBaseUrl": "/@ProgramacionATS",
+        "channelId": "UC7QoKU6bj1QbXQuNIjan82Q",
+        "descriptionSnippet": "In this channel you can find educational programming tutorials, and also interesting topics in Curiosities Programming",
+        "stats": {
+            "subscribers": 598000,
+            "subscribersText": "598K subscribers"
+        },
+        "title": "ProgramacionATS",
+        "username": "@ProgramacionATS"
+        },
+        "type": "channel"
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/QAKnwF21V1gXr1I8O2ZQNBDdS6OvF7JLAEZWLprKZp9Vxe4_6NDZn32yhOSPmY5c-S7nQBN2=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@ProgramadorX",
+            "channelId": "UCjXAQ-cayM4mIZmUZKMFW_w",
+            "title": "Programador X"
+        },
+        "badges": [],
+        "descriptionSnippet": "Te comparto los conceptos básicos de la lógica de programación que te va a permitir aprender a programar en 10 minutos.",
+        "isLiveNow": false,
+        "lengthSeconds": 651,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/as1opL254NA/mqdefault_6s.webp?du=3000&sqp=CLDjtqcG&rs=AOn4CLACWILrx4cLUU1wK8N2WBNAsLkuLw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 years ago",
+        "stats": {
+            "views": 1942919
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/as1opL254NA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhx6aOI1dTI5_LMBOUT0OLg-KAqw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/as1opL254NA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApNvtiEXft9glpk2U8q0VFRXYM0Q",
+            "width": 720
+            }
+        ],
+        "title": "Lógica de Programación 👩‍💻 Aprende a programar en 10 minutos",
+        "videoId": "as1opL254NA"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/-Nmy_iYei024Ttnvla6bYgkB3B5JenseN4hKcs56eZUTAMdE3RmdhPgmE6vDOBa1HK6lS2JoJxg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@otromasdesistemas",
+            "channelId": "UCS1vIKbN3MK00qGfr9Y9z_A",
+            "title": "otro más de sistemas"
+        },
+        "badges": [],
+        "descriptionSnippet": "En este video te voy a enseñar a programar de forma fácil y rápida. Vas a aprender los conceptos básicos de la programación, ...",
+        "isLiveNow": false,
+        "lengthSeconds": 4507,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/P1Zw0gywq80/mqdefault_6s.webp?du=3000&sqp=CJ3TtqcG&rs=AOn4CLBbnEdpmKWYr5IekN8Tfxex90B9Vg",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+            "views": 106226
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/P1Zw0gywq80/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeOTfA67aEoYoAbekTihrVJN2bCA",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/P1Zw0gywq80/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTakbgXFjYveYUH6SInbKabFOyMg",
+            "width": 720
+            }
+        ],
+        "title": "¿No entendés NADA de PROGRAMACIÓN? Empezá por Acá!",
+        "videoId": "P1Zw0gywq80"
+        }
+    },
+    {
+        "playlist": {
+        "author": {
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@LaGeekipediaDeErnesto",
+            "channelId": "UCeEW6PHNJlIwI-rKChmqqkw",
+            "title": "La Geekipedia De Ernesto"
+        },
+        "playlistId": "PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7",
+        "stats": {
+            "videos": 19
+        },
+        "thumbnails": [
+            {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/AEiRa5xZaZw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLApZLL7GOrRrF8aCnVoSNCZl9FSbA",
+            "width": 168
+            },
+            {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/AEiRa5xZaZw/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBHQHQ6W81Z2QgWN59TCZOfcoPmeg",
+            "width": 196
+            },
+            {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/AEiRa5xZaZw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrU_aCFRDqqjf7oFT_9FsPmo70zw",
+            "width": 246
+            },
+            {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/AEiRa5xZaZw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAC8ao09Wk6HiYI5WtHHjxqZ1FOjA",
+            "width": 336
+            }
+        ],
+        "title": "Curso de programación profesional",
+        "updatedTime": null,
+        "updatedTimeText": null
+        },
+        "type": "playlist"
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/Z69fhRL9_OaXsDz-XsCUe2sGIqU7G1F5Mwl0PwlBsx_ll13K0nLb47q7_RMen7NHvzMVDgd2=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@HolaMundoDev",
+            "channelId": "UC4FHiPgS1KXkUMx3dxBUtPg",
+            "title": "HolaMundo"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "Todos mis cursos: Curso gratuito de vim!: https://bit.ly/3rU5Llp Curso gratuito de GIT: https://bit.ly/3vJqb4t Curso gratuito de HTML: ...",
+        "isLiveNow": false,
+        "lengthSeconds": 1600,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/VxrIZGQfxmE/mqdefault_6s.webp?du=3000&sqp=CLTntqcG&rs=AOn4CLDIMSRd5tWVZVSL0aInxCXkOkixsQ",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "10 months ago",
+        "stats": {
+            "views": 537248
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/VxrIZGQfxmE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO4yO_5H7gB-Pm_sh5GnDJY7Fp0g",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/VxrIZGQfxmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDattTXn9NTxdGu0Xk_ngcusC6Vdg",
+            "width": 720
+            }
+        ],
+        "title": "Aprende a programar ahora! - curso de introducción a la programación desde CERO",
+        "videoId": "VxrIZGQfxmE"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSewSRUSywcqsHWM7QnE3g00ng40Q7IqUg1YLoFbA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@VictorRoblesWEB",
+            "channelId": "UCv85NiROLKddHa0fBATwTzw",
+            "title": "Victor Robles WEB"
+        },
+        "badges": [],
+        "descriptionSnippet": "En este vídeo te doy una guía actualizada: Mira cómo aprender a programar fácil, rápido y GRATIS !! Soy Víctor Robles ...",
+        "isLiveNow": false,
+        "lengthSeconds": 636,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/cF2XAo6NInI/mqdefault_6s.webp?du=3000&sqp=CMDhtqcG&rs=AOn4CLCoY7Jtv3HWzjdeG3OTlXd_COgCDw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+            "views": 15901
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/cF2XAo6NInI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_J3a4eKWnZ_DVoy6r8zCQooo4Cg",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/cF2XAo6NInI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuJVADohCYu6ruvHUNhq0tXkNn8g",
+            "width": 720
+            }
+        ],
+        "title": "¿Cómo Aprender PROGRAMACIÓN rápido y FÁCIL? (Reto de 3 MESES)",
+        "videoId": "cF2XAo6NInI"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/-Nmy_iYei024Ttnvla6bYgkB3B5JenseN4hKcs56eZUTAMdE3RmdhPgmE6vDOBa1HK6lS2JoJxg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@otromasdesistemas",
+            "channelId": "UCS1vIKbN3MK00qGfr9Y9z_A",
+            "title": "otro más de sistemas"
+        },
+        "badges": [],
+        "descriptionSnippet": "Estuve 100 días estudiando programacion desde cero, en este video te voy a mostrar como aprendí a programar, que cursos de ...",
+        "isLiveNow": false,
+        "lengthSeconds": 720,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/S-6l0yC9IjQ/mqdefault_6s.webp?du=3000&sqp=COCltqcG&rs=AOn4CLBjUCO1SlfsHhhTvJlnvZbqelwV9g",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 weeks ago",
+        "stats": {
+            "views": 35047
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/S-6l0yC9IjQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPQOaJVJmtXc-GPRcDB_mWvGAKtQ",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/S-6l0yC9IjQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoiPh2wqNQBdEwI09UCMwN08h6nA",
+            "width": 720
+            }
+        ],
+        "title": "100 DIAS Estudiando Programación DESDE CERO",
+        "videoId": "S-6l0yC9IjQ"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/65E7kRYSmdyIVlRRbT6KY5qZ5nSgVhrDR1S4b153eyKY17sZ-YaHI466CQAWqhv3CmDFZNRzGw=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@cresatelitaltv7437",
+            "channelId": "UC83izpMXsKIzyLiVIWAYu-w",
+            "title": "CRE Satelital TV"
+        },
+        "badges": [
+            "New"
+        ],
+        "descriptionSnippet": "PROGRAMACION DE CRE SATELITAL.",
+        "isLiveNow": false,
+        "lengthSeconds": 32807,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/MPuTAJYUQVw/mqdefault_6s.webp?du=3000&sqp=CIjjtqcG&rs=AOn4CLDihWe5HsE50-QQbBIp6moqBWRCYw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "Streamed 2 days ago",
+        "stats": {
+            "views": 6
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/MPuTAJYUQVw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_AMNqQEJ8XTZgtbQX9e2bmkhXTw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/MPuTAJYUQVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4Dq3KNlkAYsluGRrWsliQM2cBwA",
+            "width": 720
+            }
+        ],
+        "title": "REPRISE DE PROGRAMACION DE CRE SATELITAL   25 AGOSTO  23",
+        "videoId": "MPuTAJYUQVw"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/W1XR5nFfDC7-6PpLaIYQRwgutgGW3Flkk7mIU1WCM4XbFPMfq0RY8yvR3Rz6dW3ONPd6wSd8ag=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@IvanDonalson",
+            "channelId": "UCPbOEmKG6vjyje8dZYL3hTg",
+            "title": "Ivan Donalson"
+        },
+        "badges": [],
+        "descriptionSnippet": "PROGRAMA TU MENTE PARA LA RIQUEZA - PODEROSO SUBLIMINAL Yo soy abundancia, yo soy riqueza infinita, yo soy ...",
+        "isLiveNow": false,
+        "lengthSeconds": 1370,
+        "movingThumbnails": null,
+        "publishedTimeText": "5 years ago",
+        "stats": {
+            "views": 6414461
+        },
+        "thumbnails": [
+            {
+            "height": 270,
+            "url": "https://i.ytimg.com/vi/KuRfPSkU04E/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARgTIEsofzAP&rs=AOn4CLDkdwnjp4UxolFw4VAOb0EP2xivsw",
+            "width": 480
+            }
+        ],
+        "title": "PROGRAMA TU MENTE PARA LA RIQUEZA - PODEROSO SUBLIMINAL",
+        "videoId": "KuRfPSkU04E"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/WUVvH-8vHFzt9dF3cxJkRUhcHauQYS41JzDjcrMonmEL7ExpPgUi9qFAcIiUBDbbUFpDacW4aA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@universoconsciente_",
+            "channelId": "UCVhA3DKx4f93YStAddUkQhQ",
+            "title": "Universo Consciente"
+        },
+        "badges": [],
+        "descriptionSnippet": "REPROGRAMACIÓN MATUTINA | Repítelo Cada Mañana Hasta REPROGRAMARTE | Louise Hay en Español.",
+        "isLiveNow": false,
+        "lengthSeconds": 1028,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/cmzpbH-J3ak/mqdefault_6s.webp?du=3000&sqp=CLzatqcG&rs=AOn4CLDYQHH5tH8yyHxWsrmn6kpp4WuQQQ",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 year ago",
+        "stats": {
+            "views": 3150735
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/cmzpbH-J3ak/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPAmMPx5xrQAPTelMQGQ7kJEF5eA",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/cmzpbH-J3ak/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHm3-081z5m7Ihs3xg5IkMrdfzzg",
+            "width": 720
+            }
+        ],
+        "title": "REPROGRAMACIÓN MATUTINA | Repite Esto Cada Mañana Hasta REPROGRAMARTE | Louise Hay en Español.",
+        "videoId": "cmzpbH-J3ak"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/QAKnwF21V1gXr1I8O2ZQNBDdS6OvF7JLAEZWLprKZp9Vxe4_6NDZn32yhOSPmY5c-S7nQBN2=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@ProgramadorX",
+            "channelId": "UCjXAQ-cayM4mIZmUZKMFW_w",
+            "title": "Programador X"
+        },
+        "badges": [],
+        "descriptionSnippet": "Te comparto 8 verdades de por qué programar es difícil. También algunas recomendaciones y experiencias para que superes ...",
+        "isLiveNow": false,
+        "lengthSeconds": 867,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/mjVhZaDi80M/mqdefault_6s.webp?du=3000&sqp=CP_0tqcG&rs=AOn4CLCFB5Eef-2-_O5z_315LSr_4cnhgw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 year ago",
+        "stats": {
+            "views": 457030
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/mjVhZaDi80M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHMoZFU5v5i4OI4JDNDZ-rTRe3FA",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/mjVhZaDi80M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB2kPU7kW_qHPK4YqQxaNdfuCwsQ",
+            "width": 720
+            }
+        ],
+        "title": "Programar es DIFÍCIL... (8 verdades duras)",
+        "videoId": "mjVhZaDi80M"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/rwU607PYF9jK9QL2I85SdfCLVZJGGsxWukuF_LxD0PepnqEIrFVg3W85FOVPDmWdMN1SxyJ7Xi8=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@Platzi",
+            "channelId": "UC55-mxUj5Nj3niXFReG44OQ",
+            "title": "Platzi"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "@recent-platzi.",
+        "isLiveNow": false,
+        "lengthSeconds": 1664,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/iDADfbH7ghI/mqdefault_6s.webp?du=3000&sqp=CKzhtqcG&rs=AOn4CLDvKoxhIuIdG6kpY1nqXtu1Lg_ouw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "7 months ago",
+        "stats": {
+            "views": 220880
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/iDADfbH7ghI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwz4XQbdJUyzWE2YdW3z4bAvOdnw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/iDADfbH7ghI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_RRmCgDiz-1SBkEmH5R6BTOEBPA",
+            "width": 720
+            }
+        ],
+        "title": "Cómo será la programación en los próximos 10 años",
+        "videoId": "iDADfbH7ghI"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/dCRc8lhxurFod7snIeB6f9kJZ5NtukpdB2ChbcNBnEGBRmI-GE0DCmc3JoVgba57_t2yLyTxpg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@RisingHigherMeditation",
+            "channelId": "UCm1PrIQ1VmHHXAc8UlZTS9Q",
+            "title": "Rising Higher Meditation ®"
+        },
+        "badges": [],
+        "descriptionSnippet": "7Hrs ¡Cambia tus creencias y ACONDICIONAMIENTO ANTERIOR en torno al DINERO, crea PROSPERIDAD y RIQUEZA ...",
+        "isLiveNow": false,
+        "lengthSeconds": 25201,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/q0ulL2BtL28/mqdefault_6s.webp?du=3000&sqp=CN3mtqcG&rs=AOn4CLAsGvOQRusSVEJfyGzz9F7D1lFFrA",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "3 years ago",
+        "stats": {
+            "views": 4408729
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/q0ulL2BtL28/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVkKZhQbe-Orn9SBEBiUoXRWBceA",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/q0ulL2BtL28/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD28Lr0R2RCKu8mDl8leYdWxBpfVA",
+            "width": 720
+            }
+        ],
+        "title": "Afirmaciones de ABUNDANCIA mientras duermes! Programe su mente para riqueza y prosperidad. PODEROSO!",
+        "videoId": "q0ulL2BtL28"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/Z69fhRL9_OaXsDz-XsCUe2sGIqU7G1F5Mwl0PwlBsx_ll13K0nLb47q7_RMen7NHvzMVDgd2=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@HolaMundoDev",
+            "channelId": "UC4FHiPgS1KXkUMx3dxBUtPg",
+            "title": "HolaMundo"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "Todos mis cursos: Curso gratuito de vim!: https://bit.ly/3rU5Llp Curso gratuito de GIT: https://bit.ly/3vJqb4t Curso gratuito de HTML: ...",
+        "isLiveNow": false,
+        "lengthSeconds": 18350,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/tQZy0U8s9LY/mqdefault_6s.webp?du=3000&sqp=CMzktqcG&rs=AOn4CLDwmTmwXC1yZsdf0Oy_35yx3gBaYw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "6 months ago",
+        "stats": {
+            "views": 507802
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/tQZy0U8s9LY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYwV027QiWwzcWedzy59NLSI2HnQ",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/tQZy0U8s9LY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbYuTv8jd6s68JKFQIQW6vVdEqLQ",
+            "width": 720
+            }
+        ],
+        "title": "Aprende Python ahora! curso completo e intensivo desde cero",
+        "videoId": "tQZy0U8s9LY"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSewSRUSywcqsHWM7QnE3g00ng40Q7IqUg1YLoFbA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@VictorRoblesWEB",
+            "channelId": "UCv85NiROLKddHa0fBATwTzw",
+            "title": "Victor Robles WEB"
+        },
+        "badges": [],
+        "descriptionSnippet": "En este vídeo te digo las claves para aprender a programar y como me forcé a hacerlo. ¿Alguna vez te has sentido atrapado en la ...",
+        "isLiveNow": false,
+        "lengthSeconds": 855,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/dtmmUoR3uYo/mqdefault_6s.webp?du=3000&sqp=CLrbtqcG&rs=AOn4CLChjKAm5jddMJv5NP1-0fQfc5r2nA",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+            "views": 56473
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/dtmmUoR3uYo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvE4uY_fxsxF1vaspjOUtS4JWbkQ",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/dtmmUoR3uYo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvhLeTiNa2mr7sLDMv6tf-O-sgvA",
+            "width": 720
+            }
+        ],
+        "title": "Cómo me FORCÉ a APRENDER a PROGRAMAR 👨‍💻",
+        "videoId": "dtmmUoR3uYo"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSewSRUSywcqsHWM7QnE3g00ng40Q7IqUg1YLoFbA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@VictorRoblesWEB",
+            "channelId": "UCv85NiROLKddHa0fBATwTzw",
+            "title": "Victor Robles WEB"
+        },
+        "badges": [],
+        "descriptionSnippet": "En el video de hoy voy a hablarte de cómo aprender programación sin quemaros ni frustraros y evitar pasar por todo el dolor que ...",
+        "isLiveNow": false,
+        "lengthSeconds": 836,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/SwuySB5oDLU/mqdefault_6s.webp?du=3000&sqp=CJ_ttqcG&rs=AOn4CLDW4cApPkACY93crVhVnxtBVoJdNA",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+            "views": 19826
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/SwuySB5oDLU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVsM2gtSXDNwNORCGIIsotn5ysRw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/SwuySB5oDLU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhTxREbGq61Nlskx4x5syZUlJHLA",
+            "width": 720
+            }
+        ],
+        "title": "Cómo Aprender Programación Sin Quemarte Ni Frustrarte Para Que Te Contraten (en menos de una semana)",
+        "videoId": "SwuySB5oDLU"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/-Nmy_iYei024Ttnvla6bYgkB3B5JenseN4hKcs56eZUTAMdE3RmdhPgmE6vDOBa1HK6lS2JoJxg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@otromasdesistemas",
+            "channelId": "UCS1vIKbN3MK00qGfr9Y9z_A",
+            "title": "otro más de sistemas"
+        },
+        "badges": [],
+        "descriptionSnippet": "Estás atrapado en un ciclo de cursos de programación interminables que no te llevan a ningún lado? En este video, te revelaré el ...",
+        "isLiveNow": false,
+        "lengthSeconds": 531,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/1d3qum2vjLI/mqdefault_6s.webp?du=3000&sqp=CNrHtqcG&rs=AOn4CLDkKQc4lZrrbkdyhRHYkdJYrXYhKQ",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "3 months ago",
+        "stats": {
+            "views": 400336
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/1d3qum2vjLI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXBEsFz321r9TbiOTpuUqLhxRpBw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/1d3qum2vjLI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuzKu5ob_iqcseqnf7-dWPKrbBBQ",
+            "width": 720
+            }
+        ],
+        "title": "¿Por qué la mayoría de las personas NO aprenden a programar?",
+        "videoId": "1d3qum2vjLI"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSewSRUSywcqsHWM7QnE3g00ng40Q7IqUg1YLoFbA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@VictorRoblesWEB",
+            "channelId": "UCv85NiROLKddHa0fBATwTzw",
+            "title": "Victor Robles WEB"
+        },
+        "badges": [],
+        "descriptionSnippet": "En este vídeo hablamos de los motivos de las empresas FAANG para rechazar a los programadores, por su curriculum o ...",
+        "isLiveNow": false,
+        "lengthSeconds": 664,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/RwgHgBHa2Mo/mqdefault_6s.webp?du=3000&sqp=CKLvtqcG&rs=AOn4CLDxJlNgajeevbwvg24vwcxuci5FmQ",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+            "views": 8020
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/RwgHgBHa2Mo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxY8Sy5zMCHOsQAuryhRReH88C1A",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/RwgHgBHa2Mo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU9RShWEzXbZUGvftZrTLzSCtzVQ",
+            "width": 720
+            }
+        ],
+        "title": "6 Motivos de las FAANG para RECHAZAR a los PROGRAMADORES 😒 Si fallas en ESTO estás perdido 🚫",
+        "videoId": "RwgHgBHa2Mo"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/JMvbbOMD6MWGKPgFR2nGfMzsWZUi53ai2bGLFkCzHFLC23uYDZ0jHV24tq8qKVC3Tc6ovXEhZK4=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@CodigoMorsa",
+            "channelId": "UCONlJiwaEEVFoWZ4dZX7_5g",
+            "title": "Codigo Morsa"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "Hola mi banda! Hoy tenemos este video reacción en donde vemos como se enseña programación en una universidad con ...",
+        "isLiveNow": false,
+        "lengthSeconds": 1232,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/QV2T54Knwx8/mqdefault_6s.webp?du=3000&sqp=COL0tqcG&rs=AOn4CLAbHtbMeMJo1YCNTW29ALCD-zo1kA",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "10 days ago",
+        "stats": {
+            "views": 18954
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/QV2T54Knwx8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrM4rG-Ail-OUzp-drs3SgyqlVwg",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/QV2T54Knwx8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1cequdwyoGUtja3kiTITRjM6MyA",
+            "width": 720
+            }
+        ],
+        "title": "Así se enseña Programación en Universidad con prestigio mundial",
+        "videoId": "QV2T54Knwx8"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/rwU607PYF9jK9QL2I85SdfCLVZJGGsxWukuF_LxD0PepnqEIrFVg3W85FOVPDmWdMN1SxyJ7Xi8=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@Platzi",
+            "channelId": "UC55-mxUj5Nj3niXFReG44OQ",
+            "title": "Platzi"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "- Desarrollo e ingeniería - Diseño y UX - Marketing - Negocios y emprendimiento - Producción audiovisual - Crecimiento ...",
+        "isLiveNow": false,
+        "lengthSeconds": 1354,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/RtevrQZCdAU/mqdefault_6s.webp?du=3000&sqp=COzItqcG&rs=AOn4CLAf-DIT-oRonN0cLit1BtCKpbsSFQ",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 year ago",
+        "stats": {
+            "views": 643452
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/RtevrQZCdAU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKO7X1NH3iTXZuqcD96AvZsEGVgw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/RtevrQZCdAU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjHPju7-5G3sL9WqTjcBeJumQFWA",
+            "width": 720
+            }
+        ],
+        "title": "¿PROGRAMAR PAGA BIEN? | Cómo saber si la programación es para mí",
+        "videoId": "RtevrQZCdAU"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/Q_KD8PJy-rOefmOPEPoGXl9jXlSRToONNygA6hZgkepXJTrgGDnHQr_UguNRvPHNqK7GcBoVmw=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@freecodecampespanol",
+            "channelId": "UC1emV4A8liRs9p80CY8ElUQ",
+            "title": "freeCodeCamp Español"
+        },
+        "badges": [],
+        "descriptionSnippet": "Una introducción a Python con preguntas rápidas para ayudarte en el lapso del curso. ✏️ Video creado por Estefania ...",
+        "isLiveNow": false,
+        "lengthSeconds": 16603,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/DLikpfc64cA/mqdefault_6s.webp?du=3000&sqp=CMDItqcG&rs=AOn4CLCPDMq1g6Yv7PdQKr9pyybFsaUq6g",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 years ago",
+        "stats": {
+            "views": 1188001
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/DLikpfc64cA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYkKZ658FNRpshHU3zvgJEM-fo1Q",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/DLikpfc64cA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAILyowNTdGPKRxRodK83BWsMBlg",
+            "width": 720
+            }
+        ],
+        "title": "Aprende Python - Curso de Python desde Cero",
+        "videoId": "DLikpfc64cA"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/IwyRA05tmAiXDsv8KtFh3GYjkYTaTHAV-iaDDPDFrfal0qklJuaz4ULKE67n0ycgjgfLmfY1spE=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@EDteam",
+            "channelId": "UCP15FVAA2UL-QOcGhy7-ezA",
+            "title": "EDteam"
+        },
+        "badges": [],
+        "descriptionSnippet": "Necesitas saber matemáticas para ser programador? ¿Debes empezar desde muy joven? ¿Necesitas título universitario para ser ...",
+        "isLiveNow": false,
+        "lengthSeconds": 403,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/1WYRq3UKyZk/mqdefault_6s.webp?du=3000&sqp=CJLutqcG&rs=AOn4CLD-2ybN1z4PQMeD5o2DU1Da2uDLug",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+            "views": 17928
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/1WYRq3UKyZk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-BE97W3_SXxCjiYLCiWcqmrhh9w",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/1WYRq3UKyZk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnB8jxfWhVyF8Bkwc9G6zZFkenJg",
+            "width": 720
+            }
+        ],
+        "title": "Las verdades de la programación que nadie te dijo",
+        "videoId": "1WYRq3UKyZk"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSewSRUSywcqsHWM7QnE3g00ng40Q7IqUg1YLoFbA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@VictorRoblesWEB",
+            "channelId": "UCv85NiROLKddHa0fBATwTzw",
+            "title": "Victor Robles WEB"
+        },
+        "badges": [],
+        "descriptionSnippet": "Si estás buscando conseguir un trabajo en el mundo de la programación, sabes que hay mucha competencia. Pero, ¿sabías que ...",
+        "isLiveNow": false,
+        "lengthSeconds": 741,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/pPvKithkJpk/mqdefault_6s.webp?du=3000&sqp=CKXdtqcG&rs=AOn4CLANLzvxu1hBDMGFun5VfkDHm9J-dw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+            "views": 51991
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/pPvKithkJpk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdV4gWGcjdQuTvXnP11AcgCteenQ",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/pPvKithkJpk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW8iveZW9AsPnob0CJ0NhO72Mk-w",
+            "width": 720
+            }
+        ],
+        "title": "6 Proyectos De Programación Que Debes Construir Que Harán Que Te Contraten (en menos de una semana)",
+        "videoId": "pPvKithkJpk"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/IwyRA05tmAiXDsv8KtFh3GYjkYTaTHAV-iaDDPDFrfal0qklJuaz4ULKE67n0ycgjgfLmfY1spE=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@EDteam",
+            "channelId": "UCP15FVAA2UL-QOcGhy7-ezA",
+            "title": "EDteam"
+        },
+        "badges": [],
+        "descriptionSnippet": "Sabes por qué existen tantos lenguajes de programación? ¿Por que no hay solo uno que nos haga todo más sencillo? ¿Cómo se ...",
+        "isLiveNow": false,
+        "lengthSeconds": 735,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/ZmrYV5JNdV4/mqdefault_6s.webp?du=3000&sqp=CMDhtqcG&rs=AOn4CLCDCWnrsL4a6m7XwosmHlIl_MgHNg",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "3 months ago",
+        "stats": {
+            "views": 99606
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/ZmrYV5JNdV4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIZQ0TxYMAJJ5jHci89iobEcDz_Q",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/ZmrYV5JNdV4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGKHw1-FTgiAv0l1OwkPbxNBX1uQ",
+            "width": 720
+            }
+        ],
+        "title": "¿Con qué lenguaje de programación se crean los lenguajes de programación?",
+        "videoId": "ZmrYV5JNdV4"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/IwyRA05tmAiXDsv8KtFh3GYjkYTaTHAV-iaDDPDFrfal0qklJuaz4ULKE67n0ycgjgfLmfY1spE=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@EDteam",
+            "channelId": "UCP15FVAA2UL-QOcGhy7-ezA",
+            "title": "EDteam"
+        },
+        "badges": [],
+        "descriptionSnippet": "La programación ha cambiado bastante desde que se hacía entre el esfuerzo de muchas personas y los insectos se quedaban ...",
+        "isLiveNow": false,
+        "lengthSeconds": 2432,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/0yL_loiMbFI/mqdefault_6s.webp?du=3000&sqp=CM7jtqcG&rs=AOn4CLAKbAYEacTT0wM0bx0WqDq6K6rI4w",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 year ago",
+        "stats": {
+            "views": 270418
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/0yL_loiMbFI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq_QTcuwcwujNaw0sztdIBU1pcLw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/0yL_loiMbFI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVLO7h-168s0gfRkbAis32hRJzGQ",
+            "width": 720
+            }
+        ],
+        "title": "La historia completa de la programación (por EDteam)",
+        "videoId": "0yL_loiMbFI"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/h_5EX_GD2dB4Ti3cQbQ1BjGkm_M-EN_z_mWSw7KG-kYzswbULF5bTogzGRm-KcawIqiXgcnJiOM=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@Power_Couple",
+            "channelId": "UCkcqmxjMXaBb0kDWqqSEU1g",
+            "title": "Power Couple"
+        },
+        "badges": [
+            "4K",
+            "CC"
+        ],
+        "descriptionSnippet": "1. How to learn Data Structures and Algorithms? 2. The best course to learn Data Structures and Algorithms in Java and Python 3.",
+        "isLiveNow": false,
+        "lengthSeconds": 516,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/EM8IgIIiOdY/mqdefault_6s.webp?du=3000&sqp=CMLhtqcG&rs=AOn4CLC4aOtS2IEf66qD3lfYNrb8CORQpw",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+            "views": 287761
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/EM8IgIIiOdY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX8gnNQJjp6OO90Q6USe2hzbG6Ag",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/EM8IgIIiOdY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8Td1xTBOYeqs00_BsZ41bKzxa6Q",
+            "width": 720
+            }
+        ],
+        "title": "I gave 127 interviews. Top 5 Algorithms they asked me.",
+        "videoId": "EM8IgIIiOdY"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaS90noJ12BCJ2OyaOQsPUngeB6tZdjSgjN1BN7x=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@TravisMedia",
+            "channelId": "UCGPGirOab9EGy7VH4IwmWVQ",
+            "title": "Travis Media"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "In this video, I'll share my top 6 favorite programming languages that I've used over the past 7 years. I'll also give my reasons why.",
+        "isLiveNow": false,
+        "lengthSeconds": 447,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/KGWYaQX-oJM/mqdefault_6s.webp?du=3000&sqp=CIbotqcG&rs=AOn4CLAc9Mu5KIZWtTSywO-sDRsVec-mFg",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+            "views": 5772
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/KGWYaQX-oJM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMrxw2urbIksZYHsmUQz2r21qzYA",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/KGWYaQX-oJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnIcbFHKPGYgrOYE7OqCaWZcr2vg",
+            "width": 720
+            }
+        ],
+        "title": "My 6 Favorite Programming Languages | and why?",
+        "videoId": "KGWYaQX-oJM"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQg0AgKyv4LhyhrgrEyzPxCzzYisyHyhq-GOsNMcA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Official Artist Channel",
+                "type": "OFFICIAL_ARTIST_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": null,
+            "channelId": "UCRXaOr2-9CJTMqQH5A5GYZQ",
+            "title": "Grimes"
+        },
+        "badges": [],
+        "descriptionSnippet": "Provided to YouTube by IIP-DDS I Wanna Be Software · Grimes · Illangelo I Wanna Be Software ℗ Nazgul Recording LLC, under ...",
+        "isLiveNow": false,
+        "lengthSeconds": 219,
+        "movingThumbnails": null,
+        "publishedTimeText": null,
+        "stats": {
+            "views": 258284
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/qnk9ovzMLy8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT4gVZ-BIA9u6nCvsMB-SNyxwJMw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/qnk9ovzMLy8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8BHZ7hUigc-pPYgWWRgMatVFJwQ",
+            "width": 720
+            }
+        ],
+        "title": "I Wanna Be Software",
+        "videoId": "qnk9ovzMLy8"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSYs93vm85qJ3lMvCJj5gvMNnPu3hxwewWJYg8woA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@gallardoyoney",
+            "channelId": "UCz8QPKIj84JE091eK-lEImg",
+            "title": "Yoney Gallardo"
+        },
+        "badges": [],
+        "descriptionSnippet": "En este Curso de Programación 2019 veremos el siguiente contenido: 0. BIENVENIDA - 0:00 1. INTRODUCCIÓN - 0:11 ...",
+        "isLiveNow": false,
+        "lengthSeconds": 20248,
+        "movingThumbnails": null,
+        "publishedTimeText": "4 years ago",
+        "stats": {
+            "views": 2201842
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/7TKY-jksHRQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxihAig7UeAioMUdauV1LctkKKeQ",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/7TKY-jksHRQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmTEe6s4GT-CgSsrZWAuqzpBRt2Q",
+            "width": 720
+            }
+        ],
+        "title": "CURSO DE PROGRAMACIÓN",
+        "videoId": "7TKY-jksHRQ"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/KPVok_m-JqxKG5wD7HaXc5RyYDPPHHZpQP4KquV8fD9er0mGEkZ_9UuQojBehXz6aCxUt0RI=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@DotDager",
+            "channelId": "UCvPGx8qh8AkrFZW06tESvaA",
+            "title": "Dot Dager"
+        },
+        "badges": [],
+        "descriptionSnippet": "Hay muchos videos mostrando lo bueno de ser programador. Que uno gana bien, que trabaja desde casa y bla-bla.",
+        "isLiveNow": false,
+        "lengthSeconds": 306,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/c2EJRboAYL4/mqdefault_6s.webp?du=3000&sqp=CKrjtqcG&rs=AOn4CLDNiwjiX_oQDq-kTDcM22eX26uTRA",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "1 month ago",
+        "stats": {
+            "views": 65398
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/c2EJRboAYL4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpbJZnlqpkwQfwbgnra_Bfll-R1w",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/c2EJRboAYL4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnwK9yU662fgSx5WGx6P91Z6tluQ",
+            "width": 720
+            }
+        ],
+        "title": "Mirá esto ANTES de aprender a PROGRAMAR.",
+        "videoId": "c2EJRboAYL4"
+        }
+    },
+    {
+        "type": "video",
+        "video": {
+        "author": {
+            "avatar": [
+            {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/VyWBAewWxX8yNcET-5gozGkJKrF_lh0bqFh0iKE82f0HvFWHtH4EkFEOh-c0Dt3ZCeDai_0gtw=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+            }
+            ],
+            "badges": [
+            {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+            }
+            ],
+            "canonicalBaseUrl": "/@natelive7",
+            "channelId": "UCH_zBfX_o5GDZwevkh1jl9Q",
+            "title": "Nate Live"
+        },
+        "badges": [
+            "4K"
+        ],
+        "descriptionSnippet": "00:00 Intro 00:05 Cursos sobre Libros de Programación 00:23 ¿Qué es Mastermind? 00:43 Recomendación Libros de ...",
+        "isLiveNow": false,
+        "lengthSeconds": 999,
+        "movingThumbnails": [
+            {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/QwIg6q-qP-k/mqdefault_6s.webp?du=3000&sqp=CMvQtqcG&rs=AOn4CLB9nHCGGw4y4Vp2Yq4pv3vp-YnLyQ",
+            "width": 320
+            }
+        ],
+        "publishedTimeText": "3 months ago",
+        "stats": {
+            "views": 123251
+        },
+        "thumbnails": [
+            {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/QwIg6q-qP-k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQIgKelUKAFOZLkeqBbdDWwbkLOw",
+            "width": 360
+            },
+            {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/QwIg6q-qP-k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV8kY3dR8nxJXELN30kevIuvpZvA",
+            "width": 720
+            }
+        ],
+        "title": "Libros de programación que valen la pena...",
+        "videoId": "QwIg6q-qP-k"
+        }
+    }
+    ],
+    "cursorNext": "EqEDEgxQcm9ncmFtYWNpb24akANTQlNDQVF0elZrZERRbE5VVVRnNFZZSUJDMFJNYVd0d1ptTTJOR05CZ2dFUFVrUlJUWEl6V1V0bldqRXlabVpOZ2dFTGR6aERjM1ZmZFdndFVXZUNBUXRtTURGcFkxaG5OVzlyUVlJQkMydElNR0ZEVjFaVVNtUnJnZ0VMYmxWVVlYVkdTMDFNWW11Q0FRdEhOWHB6V21Wd1FrNDFUWUlCQzJadlgxSmxPRFJOWnpGTmdnRUxhVk5OVTNoVlVVVldRMW1DQVF0VVNESndaV0ZsWkd4NWQ0SUJDMjlqTlVNM2VsRnhlRGRyZ2dFTGNrNXFTbmRvUWs1WFQydUNBUXN4VjFsU2NUTlZTM2xhYTRJQkMzQlFka3RwZEdoclNuQnJnZ0VMV20xeVdWWTFTazVrVmpTQ0FRc3dlVXhmYkc5cFRXSkdTWUlCQ3pkVVMxa3RhbXR6U0ZKUmdnRUxZekpGU2xKaWIwRlpURFNDQVF0UmQwbG5ObkV0Y1ZBdGE3SUJCZ29FQ0JvUUF1b0JBZ2dDGIHg6BgiC3NlYXJjaC1mZWVk",
+    "didYouMean": null,
+    "estimatedResults": 1734736,
+    "filterGroups": [
+    {
+        "filters": [
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJSUFRJTNEJTNE",
+            "label": "Last hour",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJSUFnJTNEJTNE",
+            "label": "Today",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJSUF3JTNEJTNE",
+            "label": "This week",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJSUJBJTNEJTNE",
+            "label": "This month",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJSUJRJTNEJTNE",
+            "label": "This year",
+            "selected": false
+        }
+        ],
+        "title": "Upload date"
+    },
+    {
+        "filters": [
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJUUFRJTNEJTNE",
+            "label": "Video",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJUUFnJTNEJTNE",
+            "label": "Channel",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJUUF3JTNEJTNE",
+            "label": "Playlist",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJUUJBJTNEJTNE",
+            "label": "Movie",
+            "selected": false
+        }
+        ],
+        "title": "Type"
+    },
+    {
+        "filters": [
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJWUFRJTNEJTNE",
+            "label": "Under 4 minutes",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJWUF3JTNEJTNE",
+            "label": "4 - 20 minutes",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJWUFnJTNEJTNE",
+            "label": "Over 20 minutes",
+            "selected": false
+        }
+        ],
+        "title": "Duration"
+    },
+    {
+        "filters": [
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdKQUFRJTNEJTNE",
+            "label": "Live",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdKd0FRJTNEJTNE",
+            "label": "4K",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJZ0FRJTNEJTNE",
+            "label": "HD",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJb0FRJTNEJTNE",
+            "label": "Subtitles/CC",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJd0FRJTNEJTNE",
+            "label": "Creative Commons",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdKNEFRJTNEJTNE",
+            "label": "360°",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdQUUFRRSUzRA==",
+            "label": "VR180",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdJNEFRJTNEJTNE",
+            "label": "3D",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdQSUFRRSUzRA==",
+            "label": "HDR",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdPNEFRRSUzRA==",
+            "label": "Location",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmRWdKSUFRJTNEJTNE",
+            "label": "Purchased",
+            "selected": false
+        }
+        ],
+        "title": "Features"
+    },
+    {
+        "filters": [
+        {
+            "cursorSelect": null,
+            "label": "Relevance",
+            "selected": true
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmQ0FJJTNE",
+            "label": "Upload date",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmQ0FNJTNE",
+            "label": "View count",
+            "selected": false
+        },
+        {
+            "cursorSelect": "UHJvZ3JhbWFjaW9uJiYmQ0FFJTNE",
+            "label": "Rating",
+            "selected": false
+        }
+        ],
+        "title": "Sort by"
+    }
+    ],
+    "refinements": [
+    "american truck simulator",
+    "ats mods",
+    "alejandro taboada",
+    "python curso",
+    "javascript",
+    "cats",
+    "net ninja"
+    ]
+}

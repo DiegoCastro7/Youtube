@@ -1,17 +1,21 @@
 const path = "storage/ChanelS";
 const path2 = "storage/ChanelI";
 
-let InfoCanal = async()=>{
+let banner = async()=>{
     let peticion2 = await fetch(`${path2}.json`);
     let res2 = await peticion2.json();
     let seleccion2 = document.querySelector("#imgbanner");
     seleccion2.insertAdjacentHTML("beforeend",/*html*/`
     <img src="${res2.banner.desktop[5].url}">
     `);
+}
+let InfoCanal = async()=>{
+    let peticion2 = await fetch(`${path2}.json`);
+    let res2 = await peticion2.json();
     let seleccion3 = document.querySelector("#subls");
     seleccion3.insertAdjacentHTML("beforeend",/*html*/`
     <p>Subscriptions</p>
-        <a href=""><img src=${res2.avatar[2].url}><p style="margin-bottom:0">${res2.title}</p></a>
+        <a href="index.html"><img src=${res2.avatar[2].url}><p style="margin-bottom:0">${res2.title}</p></a>
         <a href="https://www.youtube.com/@campuslands"><img src="images/campuslands.jpg"><p style="margin-bottom:0">Campuslands</p></a>
         <a href="https://www.youtube.com/@GYPZ"><img src="images/gypz.jpg"><p style="margin-bottom:0">GYPZ</p></a>
         <a href="https://www.youtube.com/@EDteam"><img src="images/edteam.jpg"><p style="margin-bottom:0">EDteam</p></a>
@@ -93,3 +97,4 @@ let Buscarvideos = async()=>{
 InfoCanal();
 Buscarvideosaleatorio();
 Buscarvideos();
+banner();
