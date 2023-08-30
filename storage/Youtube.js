@@ -1,3 +1,21 @@
+const url = 'https://youtube138.p.rapidapi.com/channel/videos/?cursor=Programaci%C3%B3n&hl=en&gl=US';
+let localID=localStorage.getItem('Id');
+
+const urlcinfo = 'https://youtube138.p.rapidapi.com/channel/details/?id=UCJ5v_MCY6GNUBTO8-D3XoAg&hl=en&gl=US';
+const urlcvideos = 'https://youtube138.p.rapidapi.com/channel/videos/?id=UCJ5v_MCY6GNUBTO8-D3XoAg&hl=en&gl=US';
+const urlvinfo = 'https://youtube138.p.rapidapi.com/video/details/?id=${localID}&hl=en&gl=US'; //edit
+const urlvcomments = 'https://youtube138.p.rapidapi.com/video/comments/?id=${localID}&hl=en&gl=US'; //edit
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '2cdacea104mshefa0be4d9952708p1c1c4ajsn8bd26b7c7768',
+		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
+	}
+};
+
+
+
+
 const path3 = "storage/Youtube";
 
 let Buscarvideosyoutubealeatorio = async () => {
@@ -9,8 +27,9 @@ let Buscarvideosyoutubealeatorio = async () => {
         return array;
     }
 
-    let peticion = await fetch(`${path3}.json`);
-    let res = await peticion.json();
+    //let peticion = await fetch(`${path3}.json`);
+    //let res = await peticion.json();
+    let res = await (url,options);  
     
     const originalcontenido = res.contents;
     const nuevocontenido = nuevoorden([...originalcontenido]);
@@ -20,7 +39,7 @@ let Buscarvideosyoutubealeatorio = async () => {
         nuevocontenido.map(value => {
             if (value.type === "video") {
                 return /*html*/ `
-                    <div class="vid-list">
+                    <div class="vid-list" data-video-id=${value.video.videoId}>
                         <a href="play-video.html"><img src=${value.video.thumbnails[0].url} class="thumbnail"></a>
                         <div class="flex-div">
                             <img src=${value.video.author.avatar[0].url}>
@@ -35,6 +54,18 @@ let Buscarvideosyoutubealeatorio = async () => {
             }
         }).join("")
     );
+
+    const info3 = document.querySelectorAll(".vid-list")
+    console.log(info3);
+
+    info3.forEach(video =>{
+        video.addEventListener("click", () => {
+            let videoID = video.getAttribute("data-video-id")
+            console.log(videoID);
+            localStorage.setItem('id', videoID)
+            window.location.href = 'play-video.html'
+        })
+    })
 };
 
 Buscarvideosyoutubealeatorio();

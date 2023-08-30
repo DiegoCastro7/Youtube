@@ -95,7 +95,7 @@ let Buscarvideos = async()=>{
     let seleccion = document.querySelector("#videosder");
     seleccion.insertAdjacentHTML("beforeend",/*html*/`
     ${res.contents.map((value)=> /*html*/`
-        <div class="side-video-list">
+        <div class="side-video-list" data-video-id=${value.video.videoId}>
             <a href="" class="small-thumbnail"><img src=${value.video.thumbnails[3].url}></a>
             <div class="vid-info">
                 <a href="">${value.video.title}</a>
@@ -105,6 +105,18 @@ let Buscarvideos = async()=>{
         </div>
         `).join("")}
     `);
+
+    const info2 = document.querySelectorAll(".side-video-list")
+    console.log(info2);
+
+    info2.forEach(video =>{
+        video.addEventListener("click", () => {
+            let videoID = video.getAttribute("data-video-id")
+            console.log(videoID);
+            localStorage.setItem('id', videoID)
+            window.location.href = 'play-video.html'
+        })
+    })
 }
 InfoCanal();
 Buscarvideosaleatorio();
