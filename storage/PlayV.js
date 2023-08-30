@@ -23,7 +23,7 @@ const path5 = "storage/VideoC";
      let seleccion3 = document.querySelector(".vid-description");
      seleccion3.insertAdjacentHTML("afterbegin",/*html*/`
      
-     <p>aaaaaaa</p>
+     <p>${res3.description}</p>
      <hr>
      <h4>${res3.stats.comments} Comments</h4>
      <div class="add-comment">
