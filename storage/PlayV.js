@@ -1,6 +1,15 @@
 const path4 = "storage/VideoI";
 const path5 = "storage/VideoC";
- let localID=localStorage.getItem('id')
+let localID=localStorage.getItem('id')
+const urlvcomments = `https://youtube138.p.rapidapi.com/video/comments/?id=${localID}=en&gl=US`;
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': 'bbe6e0b399msh78cc9543d82095dp1ccee8jsn1f0109ca75d4',
+		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
+	}
+};
+ 
  let video = async()=>{
      let seleccion = document.querySelector(".play-video");
      seleccion.insertAdjacentHTML("afterbegin",/*html*/`
@@ -57,7 +66,7 @@ const path5 = "storage/VideoC";
      seleccion6.insertAdjacentHTML("afterbegin",/*html*/`
      ${res6.title}
      `);
-     let peticion6 = await fetch(`${path5}.json`);
+     let peticion6 = await fetch(urlvcomments,options);
      let res7 = await peticion6.json();
      let seleccion7 = document.querySelector(".vid-description");
      seleccion7.insertAdjacentHTML("beforeend",/*html*/`

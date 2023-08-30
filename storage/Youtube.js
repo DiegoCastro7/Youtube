@@ -1,14 +1,14 @@
-const url = 'https://youtube138.p.rapidapi.com/channel/videos/?cursor=Programaci%C3%B3n&hl=en&gl=US';
-let localID=localStorage.getItem('Id');
+const url = `https://youtube138.p.rapidapi.com/channel/videos/?cursor=Programaci%C3%B3n&hl=en&gl=US`;
+let localID=localStorage.getItem('Id'); 
 
-const urlcinfo = 'https://youtube138.p.rapidapi.com/channel/details/?id=UCJ5v_MCY6GNUBTO8-D3XoAg&hl=en&gl=US';
-const urlcvideos = 'https://youtube138.p.rapidapi.com/channel/videos/?id=UCJ5v_MCY6GNUBTO8-D3XoAg&hl=en&gl=US';
-const urlvinfo = 'https://youtube138.p.rapidapi.com/video/details/?id=${localID}&hl=en&gl=US'; //edit
-const urlvcomments = 'https://youtube138.p.rapidapi.com/video/comments/?id=${localID}&hl=en&gl=US'; //edit
+// const urlcinfo = 'https://youtube138.p.rapidapi.com/channel/details/?id=UCJ5v_MCY6GNUBTO8-D3XoAg&hl=en&gl=US';
+// const urlcvideos = 'https://youtube138.p.rapidapi.com/channel/videos/?id=UCJ5v_MCY6GNUBTO8-D3XoAg&hl=en&gl=US';
+// const urlvinfo = 'https://youtube138.p.rapidapi.com/video/details/?id=${localID}&hl=en&gl=US'; //edit
+// const urlvcomments = 'https://youtube138.p.rapidapi.com/video/comments/?id=${localID}&hl=en&gl=US'; //edit
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '2cdacea104mshefa0be4d9952708p1c1c4ajsn8bd26b7c7768',
+		'X-RapidAPI-Key': 'bbe6e0b399msh78cc9543d82095dp1ccee8jsn1f0109ca75d4',
 		'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
 	}
 };
@@ -29,7 +29,8 @@ let Buscarvideosyoutubealeatorio = async () => {
 
     //let peticion = await fetch(`${path3}.json`);
     //let res = await peticion.json();
-    let res = await (url,options);  
+    const peticion = await fetch(url,options);
+    const res = await peticion.json();  
     
     const originalcontenido = res.contents;
     const nuevocontenido = nuevoorden([...originalcontenido]);
